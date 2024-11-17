@@ -18,4 +18,4 @@ Usage:
 - machine will automatically print the receipt
 - user can scan the QR code on the receipt to view consumption records/merchant activities/consumption chain verification
 
-![aaaa.JPG](src/main/res/drawable/aaaa.JPG)
+![aaaa.JPG](app/src/main/res/drawable/aaaa.JPG)
