@@ -252,7 +252,7 @@ fun SelectAndOrderMenu(
                         selectedChain = selectedChainInternal.lowercase(),
                         orderItems = orderItems,
                         fromAddress = "0xB4F205238b7556790dACef577D371Cb8f6C87215",
-                        notaryUrl=""
+                        notaryUrl="https://testnet-scan.sign.global/attestation/onchain_evm_84532_0xd4d"
                     )
                 }
             } catch (e: Exception) {
